@@ -1,0 +1,34 @@
+# Comandos Git
+
+- git init - inicia um diretório
+- git add * , . , -A, nome do arquivo - salva um arquivo que não foi salvo ainda nio diretório 
+- git commit -m - deixa seu diretório pronto para subir p/ github.
+
+
+
+### Config de Login 
+
+- git config --global user.email "..." - adicionar email nas conf de login (para colocar o nome basta trocar "email, por name  ")
+- git config --global --unset user.(name ou email // sem parênteses) - tirar email ou nome 
+
+### Comandos status, puxar e empurrar 
+
+- git status - mostra se tem alguma alteração no diretório 
+- git push origin - empurra o diretório para a pasta do Github 
+- git pull origin - baixa o repositório remoto especificado, para fazer uma alteração do repositório local  e assim juntar os 2 repositórios em 1 só.
+
+
+
+#### Comandos 
+
+- ls - Mostra o que tem no diretório 
+
+- mkdir - Cria novo diretório 
+
+- ls -a - Mostra diretório oculto 
+
+- rm -rf - exclui um diretório 
+
+- cd, cd .. - cd (nome diretório), navega pelos diretórios, cd .. : volta para diretório anterior
+- git remote -v - Mostra onde p/ onde diretório esta apontado
+- 
