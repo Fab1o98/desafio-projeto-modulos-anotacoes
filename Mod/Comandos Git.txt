@@ -31,4 +31,7 @@
 
 - cd, cd .. - cd (nome diretório), navega pelos diretórios, cd .. : volta para diretório anterior
 - git remote -v - Mostra onde p/ onde diretório esta apontado
-- 
+
+
+
+Link útil p/ estudo do Git : https://www.atlassian.com/br/git/tutorials/learn-git-with-bitbucket-cloud
